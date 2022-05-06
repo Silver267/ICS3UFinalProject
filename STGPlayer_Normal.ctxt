@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=STGPlayer_Normal
+comment0.text=\r\n\ Player\ in\ STG\ mode\ battle\ -\ normal\ state\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=STGPlayer_Normal()
+comment2.params=
+comment2.target=int\ getShield()
+comment3.params=
+comment3.target=boolean\ isInv()
+comment4.params=val
+comment4.target=void\ chShield(int)
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ reBirthFirst()
+comment7.params=
+comment7.target=void\ reBirthSecond()
+comment8.params=
+comment8.target=void\ move()
+comment9.params=
+comment9.target=void\ fire()
+numComments=10

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=STGPlayer_htBox
+comment0.text=\r\n\ Player\ hit\ box\ -\ moves\ with\ player;\ if\ enemy\ bullet\ hits\ this,\ the\ player\ is\ considered\ hit.\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=STGPlayer_htBox()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=show
+comment3.target=greenfoot.GreenfootImage\ ht(boolean)
+numComments=4

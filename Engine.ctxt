@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Engine
+comment0.text=\r\n\ Engine\ which\ stores\ static\ variables\ and\ methods.\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+comment1.params=font\ text
+comment1.target=int\ getStringWidth(greenfoot.Font,\ java.lang.String)
+comment2.params=in\ f\ mxLength
+comment2.target=java.lang.String\ wordWrap(java.lang.String,\ greenfoot.Font,\ int)
+numComments=3

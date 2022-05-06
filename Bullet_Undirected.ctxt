@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Bullet_Undirected
+comment0.text=\r\n\ Undirected\ bullet\ (goes\ in\ a\ straight\ line\ and\ will\ not\ automatically\ aim\ to\ target)\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+comment1.params=pict\ speed\ facing\ power\ size\ x\ y\ friendly
+comment1.target=Bullet_Undirected(int,\ double,\ int,\ int,\ int,\ int,\ int,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=greenfoot.GreenfootImage\ temp()
+numComments=4

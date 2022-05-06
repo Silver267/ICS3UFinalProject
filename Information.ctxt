@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Information
+comment0.text=\r\n\ Essentially\ a\ panel\ which\ displays\ nececarry\ information\ such\ as\ player\ shield\ remaining.\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Information()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=shield\ TotalEnemyHP\ EnemyHP
+comment3.target=greenfoot.GreenfootImage\ drawInformation_STG(int,\ int,\ int)
+comment4.params=tHP\ HPRemaining
+comment4.target=greenfoot.GreenfootImage\ drawHPBar(int,\ int)
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ shieldImage()
+comment6.params=transParency
+comment6.target=greenfoot.GreenfootImage\ phaseBar(int)
+numComments=7

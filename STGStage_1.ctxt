@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=STGStage_1
+comment0.text=\r\n\ STG\ Mode\ Stage\ 1.\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ setPaintOrders()
+comment2.params=
+comment2.target=STGStage_1()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ dynamicBG()
+numComments=5

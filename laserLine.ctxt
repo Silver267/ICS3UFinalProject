@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=laserLine
+comment0.text=\r\n\ Laser\ attack\ warning\ line\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+comment1.params=length\ width\ facing\ duration\ lasduration\ sound
+comment1.target=laserLine(int,\ int,\ int,\ int,\ int,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=greenfoot.GreenfootImage\ draw()
+numComments=4

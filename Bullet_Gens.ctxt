@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Bullet_Gens
+comment0.text=\r\n\ Bullet\ generator\ which\ generates\ bullets\ /\ lasers.\r\n\ \r\n\ @author\ Xuanxi\ Jiang\r\n\ @version\ 1.0\r\n
+comment1.params=facing\ friendly\ type\ life\ delay\ interval
+comment1.target=Bullet_Gens(int,\ boolean,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=greenfoot.GreenfootImage\ draw()
+numComments=4
